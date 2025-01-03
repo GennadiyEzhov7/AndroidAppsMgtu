@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e0cc435-4b22-431c-861a-f3ea2b10fb39" name="Changes" comment="lab4">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/.github/ISSUE_TEMPLATE/stages-of-activity-lifecycle-template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/java/com/example/dessertclicker/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/java/com/example/dessertclicker/data/Datasource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/java/com/example/dessertclicker/model/Dessert.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/java/com/example/dessertclicker/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/java/com/example/dessertclicker/ui/theme/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/java/com/example/dessertclicker/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/java/com/example/dessertclicker/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/bakery_back.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/cupcake.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/donut.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/eclair.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/froyo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/gingerbread.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/honeycomb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/icecreamsandwich.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/jellybean.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/kitkat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/lollipop.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/marshmallow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/nougat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/drawable/oreo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-anydpi-v26/ic_dessert_clicker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-anydpi-v26/ic_dessert_clicker_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-dessert-clicker/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/.github/ISSUE_TEMPLATE/android-basics--viewmodel-and-state-in-compose.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/java/com/example/android/unscramble/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/java/com/example/android/unscramble/data/WordsData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/java/com/example/android/unscramble/ui/GameScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/java/com/example/android/unscramble/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/java/com/example/android/unscramble/ui/theme/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/java/com/example/android/unscramble/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/java/com/example/android/unscramble/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/values-v23/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/app/src/test/java/com/example/android/unscramble/data/WordsData.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/contributing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway1/basic-android-kotlin-compose-training-unscramble/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/.github/ISSUE_TEMPLATE/android-basics-cupcake-app.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/java/com/example/cupcake/CupcakeScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/java/com/example/cupcake/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/java/com/example/cupcake/data/DataSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/java/com/example/cupcake/data/OrderUiState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/java/com/example/cupcake/ui/OrderViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/java/com/example/cupcake/ui/SelectOptionScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/java/com/example/cupcake/ui/StartOrderScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/java/com/example/cupcake/ui/SummaryScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/java/com/example/cupcake/ui/components/CommonUi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/java/com/example/cupcake/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/java/com/example/cupcake/ui/theme/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/java/com/example/cupcake/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/java/com/example/cupcake/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/drawable/cupcake.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-cupcake/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/.github/ISSUE_TEMPLATE/add-navigation-issue-template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/LunchTrayScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/datasource/DataSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/model/MenuItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/model/OrderUiState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/ui/AccompanimentMenuScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/ui/BaseMenuScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/ui/CheckoutScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/ui/EntreeMenuScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/ui/OrderViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/ui/SideDishMenuScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/ui/StartOrderScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/ui/theme/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/java/com/example/lunchtray/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway2/basic-android-kotlin-compose-training-lunch-tray/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/.github/ISSUE_TEMPLATE/build-an-adaptive-app-with-adaptive-layout--codelab--2--template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/.github/ISSUE_TEMPLATE/build-an-adaptive-app-with-dynamic-navigation--codelab--1--template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/.github/ISSUE_TEMPLATE/project-unit-4-pathway-3-my-city-issue-template.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/androidTest/java/com/example/reply/test/ComposeTestRuleExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/data/Account.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/data/Email.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/data/MailboxType.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/data/local/LocalAccountsDataProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/data/local/LocalEmailsDataProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/ui/ReplyApp.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/ui/ReplyDetailsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/ui/ReplyHomeContent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/ui/ReplyHomeScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/ui/ReplyUiState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/ui/ReplyViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/java/com/example/reply/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable-v24/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable/avatar_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable/avatar_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable/avatar_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable/avatar_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable/avatar_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable/avatar_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable/avatar_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable/avatar_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable/avatar_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable/avatar_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable/avatar_parcel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable/avatar_spam.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/drawable/logo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-reply-app/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/.github/ISSUE_TEMPLATE/practice-problems-sports-app-issue-template-.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/java/com/example/sports/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/java/com/example/sports/data/LocalSportsDataProvider.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/java/com/example/sports/model/Sport.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/java/com/example/sports/ui/SportsScreens.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/java/com/example/sports/ui/SportsViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/java/com/example/sports/ui/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/java/com/example/sports/ui/theme/Shape.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/java/com/example/sports/ui/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/java/com/example/sports/ui/theme/Type.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_badminton_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_badminton_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_baseball_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_baseball_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_basketball_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_basketball_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_bowling_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_bowling_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_cycling_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_cycling_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_golf_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_golf_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_running_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_running_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_soccer_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_soccer_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_swimming_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_swimming_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_table_tennis_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_table_tennis_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_tennis_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/drawable/ic_tennis_square.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/contributing.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit4/Pathway3/basic-android-kotlin-compose-training-sports/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GennadiyEzhov7"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GennadiyEzhov7/AndroidAppsMgtu.git",
+    "accountId": "faba81a9-b971-423e-99a1-0c905637194c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2r84xiGZTJUIOfRWtMpZXWQOLf4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "AVb-21-12-Ezhov-8",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kny1a/IdeaProjects/AndroidAppsMgtu"
+  },
+  "keyToStringList": {
+    "kotlin-gradle-user-dirs": [
+      "C:\\Users\\kny1a\\.gradle"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e0cc435-4b22-431c-861a-f3ea2b10fb39" name="Changes" comment="" />
+      <created>1735927617504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735927617504</updated>
+    </task>
+    <task id="LOCAL-00001" summary="lab4">
+      <option name="closed" value="true" />
+      <created>1735927717776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735927717776</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab4" />
+  </component>
+</project>
